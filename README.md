@@ -1,8 +1,11 @@
 ### <a href="https://codingbread.tistory.com/"> :airplane: YE EUN </a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/alice6580) <a href="https://www.linkedin.com/in/yeeun-kim-03163329a/"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+------
+
 <div align = "center"> 
-  
+
 ### ✨ Main Lanauage ✨
 
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" />
