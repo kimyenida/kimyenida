@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)](https://github.com/delay-100/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats)
 </div>
 <!--
 **kimyenida/kimyenida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
