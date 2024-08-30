@@ -2,7 +2,7 @@
 
 ## <a href="https://codingbread.tistory.com/"> :airplane: YE EUN </a>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/alice6580) <a href="https://www.linkedin.com/in/yeeun-kim-03163329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/alice6580) <a href="https://www.linkedin.com/in/yeeun-kim-03163329a?utm_source=share&utm_campaign=share_via&utm_content=profile"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <div align = "center"> 
   
 ### ✨ Main Lanauage ✨
