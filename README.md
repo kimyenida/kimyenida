@@ -8,7 +8,8 @@
 ### 💬 Develop Language 💬
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)]  <a href="mailto:https://www.linkedin.com/in/yeeun-kim-03163329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)]  
+<a href="mailto:https://www.linkedin.com/in/yeeun-kim-03163329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-EA4335.svg?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <!--
