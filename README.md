@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)](https://github.com/delay-100/github-readme-stats) <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)](https://github.com/delay-100/github-readme-stats) 
 
 
 <!--
