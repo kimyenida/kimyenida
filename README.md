@@ -2,8 +2,8 @@
 
 ## <a href="https://codingbread.tistory.com/"> :airplane: YE EUN </a>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/alice6580)
-<div align = "center"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/alice6580) <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align = "center"> 
   
 ### ✨ Main Lanauage ✨
 
