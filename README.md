@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)]
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alice6580)](https://solved.ac/alice6580)
 <!--
 **kimyenida/kimyenida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
