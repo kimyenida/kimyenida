@@ -16,7 +16,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyenida&layout=compact)
-<img src="http://mazandi.herokuapp.com/api?handle={alice6580}&theme=warm"/>
 </div>
 <!--
 **kimyenida/kimyenida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
