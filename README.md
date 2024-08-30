@@ -1,6 +1,9 @@
+\<!-- info -->
 ### :wave: Welcome!
 
+<!-- YE EUN -->
 <a href="https://codingbread.tistory.com/"> :meat_on_bone:YE EUN </a>
+<div align="center">
 
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
 
